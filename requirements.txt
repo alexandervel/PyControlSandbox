@@ -1,0 +1,9 @@
+#
+# pip installed req
+#
+
+matplotlib
+numpy
+sympy
+control
+engineering_notation
